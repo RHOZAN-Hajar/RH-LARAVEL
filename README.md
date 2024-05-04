@@ -1,6 +1,6 @@
 ![Screenshot 2024-04-30 200347](https://github.com/RHOZAN-Hajar/RH-LARAVEL/assets/145289857/d1a59661-fb5f-43c9-aea9-a02d98a79674)
-# RH-LARAVEL
-A web application to manage RH process in societies. 
+# HR-LARAVEL
+A web application to manage HR process in societies. 
 You can find the project in the master branch .
 
 ![image](https://github.com/RHOZAN-Hajar/RH-LARAVEL/assets/145289857/2b33acc5-59f5-4c70-b6b9-ad4d76be987d)
